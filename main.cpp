@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
+    cout << "aha" << endl;
     int a[3]; bool IsOk=true;
     cin >> a[0] >> a[1] >> a[2];
     int jam , taf, alam;
