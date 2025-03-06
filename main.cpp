@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
     int a[3]; bool IsOk=true;
+    cout << "miu miu!" << endl;
     cin >> a[0] >> a[1] >> a[2];
     int jam , taf, alam;
     for (int i=0;i<3;i++){
