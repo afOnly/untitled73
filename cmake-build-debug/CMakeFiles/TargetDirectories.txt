@@ -1,0 +1,3 @@
+C:/Users/farasystem.ir/CLionProjects/untitled73/cmake-build-debug/CMakeFiles/untitled73.dir
+C:/Users/farasystem.ir/CLionProjects/untitled73/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/farasystem.ir/CLionProjects/untitled73/cmake-build-debug/CMakeFiles/rebuild_cache.dir
